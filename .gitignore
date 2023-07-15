@@ -1,6 +1,8 @@
 temp/*
+!temp/README.md
 .vscode
 .venv
 __pycache__
 model/*
+!model/README.md
 
